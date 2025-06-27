@@ -3,6 +3,11 @@
 This project demonstrates real-time **person detection** and **multi-object tracking** using the **YOLOv5 object detection model** integrated with the **Deep SORT tracking algorithm**. It processes live webcam feed or video files, detects persons using YOLO, and assigns unique IDs to each tracked person.
 
 ---
+## Output video
+
+https://github.com/user-attachments/assets/fc8b9898-4dec-43b5-8892-24277963cc08
+
+---
 
 ## 🔍 Overview
 
