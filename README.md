@@ -29,6 +29,7 @@ https://github.com/user-attachments/assets/fc8b9898-4dec-43b5-8892-24277963cc08
 
 ## 📉 Limitations
 
+- Some people may not be detected because of using low varient model yolov10n
 - Low FPS / Performance Bottleneck
 - Real-time performance can suffer, especially on CPUs or low-end GPUs.
 
